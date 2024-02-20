@@ -13,7 +13,7 @@
 
 - Можно создать шаблон
 
-   <img src="https://github.com/gsbkomar/MemAaaOk/assets/103882557/b9fadab8-7c97-4e1f-9f94-025be013f6fb" width="250" height="450"/> 
+   <img src="https://github.com/gsbkomar/MemAaaOk/assets/103882557/b9fadab8-7c97-4e1f-9f94-025be013f6fb" width="250" height="550"/> 
 
 ##### Технические детали реализации:
 
